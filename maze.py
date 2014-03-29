@@ -126,6 +126,13 @@ KEY_PRESS_DIRECTION = {K_UP : UP,
                        K_RIGHT : RIGHT,
                        K_LEFT : LEFT}
 
+class Stack(list):
+    '''
+    A simple stack class that just adds the push() method
+    '''
+    def push(self, item):
+        self.append(item)
+
 class Maze(object):
     '''
     Defines a maze class, has solve method that finds the path from the upper
