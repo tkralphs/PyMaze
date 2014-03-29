@@ -5,9 +5,8 @@ A simple maze generator, solver, and interactive explorer for use in the classro
 
 http://coral.ie.lehigh.edu/~ted/teaching/ie172
 
-To use this, you need to first easy_install
+To use this, you need to first do
 
-pygame
-coinor.blimpy
+easy_install pygame
 
 I have more code that I am not posting here because it is part of the solution the students are supposed to code. Please feel free to contact me if you are an instructor and want more information.
