@@ -1,7 +1,7 @@
 PyMaze
 ======
 
-A simple maze generator, solver, and interactive explorer for use in the classroom. This code was originally written to be used as part of an undergraduate lab in the course IE172, Algorithms in Systems Engineering at Lehigh University. The Lab writeup and materials can be found here:
+A simple maze generator, solver, and interactive explorer for use in the classroom. This code was originally written to be used as part of an undergraduate lab in the course IE172, Algorithms in Systems Engineering at Lehigh University. The Lab writeup and materials can be found with the Labroatory 3 materials here:
 
 http://coral.ie.lehigh.edu/~ted/teaching/ie172
 
