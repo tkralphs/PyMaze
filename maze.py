@@ -81,11 +81,13 @@ Meaning of entries in self.maze
 
 Created on Dec 25, 2011
 Modified Feb 6, 2012
+
+Copyright 2014 Aykut Bulut, Ted Ralphs, and Lehigh University
 '''
 
 __version__    = '1.0.0'
 __author__     = 'Aykut Bulut, Ted Ralphs (ayb211@lehigh.edu,ted@lehigh.edu)'
-__license__    = 'BSD'
+__license__    = 'CC BY 3.0'
 __maintainer__ = 'Aykut Bulut'
 __email__      = 'ayb211@lehigh.edu'
 __url__        = None
